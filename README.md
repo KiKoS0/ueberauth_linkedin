@@ -9,7 +9,7 @@
 [travis-img]: https://travis-ci.org/fajarmf/ueberauth_linkedin.svg?branch=master
 [travis]: https://travis-ci.org/fajarmf/ueberauth_linkedin
 
-> LinkedIn OAuth2 strategy for Überauth.
+This is a fork of LinkedIn OAuth2 strategy for Überauth that fixes the [CSRF issue](https://github.com/fajarmf/ueberauth_linkedin/pull/16) with `ueberauth >= 0.0.7` versions.
 
 ## Installation
 
